@@ -1,0 +1,78 @@
+[0.000000] (-) TimerEvent: {}
+[0.001016] (wit_ros2_imu) JobQueued: {'identifier': 'wit_ros2_imu', 'dependencies': OrderedDict()}
+[0.001313] (wit_ros2_imu) JobStarted: {'identifier': 'wit_ros2_imu'}
+[0.099474] (-) TimerEvent: {}
+[0.199892] (-) TimerEvent: {}
+[0.300298] (-) TimerEvent: {}
+[0.400743] (-) TimerEvent: {}
+[0.501111] (-) TimerEvent: {}
+[0.601471] (-) TimerEvent: {}
+[0.701854] (-) TimerEvent: {}
+[0.802271] (-) TimerEvent: {}
+[0.902627] (-) TimerEvent: {}
+[1.002994] (-) TimerEvent: {}
+[1.062043] (wit_ros2_imu) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/wit_ros2_imu', 'build', '--build-base', '/home/vijay/IMU/build/wit_ros2_imu/build', 'install', '--record', '/home/vijay/IMU/build/wit_ros2_imu/install.log', '--install-scripts', '$base/lib/wit_ros2_imu', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/vijay/IMU/src/wit_ros2_imu', 'env': {'SUDO_GID': '1000', 'MAIL': '/var/mail/root', 'LANGUAGE': 'en_IN:en', 'USER': 'root', 'HOME': '/root', 'COLORTERM': 'truecolor', 'SUDO_UID': '1000', 'LOGNAME': 'root', 'TERM': 'xterm-256color', 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SUDO_COMMAND': '/usr/bin/colcon build', 'SHELL': '/bin/bash', 'SUDO_USER': 'vijay', 'LC_ALL': 'en_US.UTF-8', 'PWD': '/home/vijay/IMU/build/wit_ros2_imu', 'COLCON': '1', 'PYTHONPATH': '/home/vijay/IMU/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages:'}, 'shell': False}
+[1.103131] (-) TimerEvent: {}
+[1.203503] (-) TimerEvent: {}
+[1.303881] (-) TimerEvent: {}
+[1.325607] (wit_ros2_imu) StderrLine: {'line': b'/usr/local/lib/python3.10/dist-packages/setuptools/dist.py:488: SetuptoolsDeprecationWarning: Invalid dash-separated options\n'}
+[1.325990] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[1.326192] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.326402] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[1.326585] (wit_ros2_imu) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[1.326764] (wit_ros2_imu) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[1.326947] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.327136] (wit_ros2_imu) StderrLine: {'line': b'        By 2025-Mar-03, you need to update your project and remove deprecated calls\n'}
+[1.327317] (wit_ros2_imu) StderrLine: {'line': b'        or your builds will no longer be supported.\n'}
+[1.327498] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.327668] (wit_ros2_imu) StderrLine: {'line': b'        See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.\n'}
+[1.327841] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[1.328010] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.328174] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[1.328359] (wit_ros2_imu) StderrLine: {'line': b'  opt = self.warn_dash_deprecation(opt, section)\n'}
+[1.343396] (wit_ros2_imu) StderrLine: {'line': b"/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[1.343775] (wit_ros2_imu) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[1.404013] (-) TimerEvent: {}
+[1.439416] (wit_ros2_imu) StdoutLine: {'line': b'running egg_info\n'}
+[1.455460] (wit_ros2_imu) StdoutLine: {'line': b'creating ../../build/wit_ros2_imu/wit_ros2_imu.egg-info\n'}
+[1.455859] (wit_ros2_imu) StdoutLine: {'line': b'writing ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO\n'}
+[1.456609] (wit_ros2_imu) StdoutLine: {'line': b'writing dependency_links to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt\n'}
+[1.456854] (wit_ros2_imu) StdoutLine: {'line': b'writing entry points to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt\n'}
+[1.457144] (wit_ros2_imu) StdoutLine: {'line': b'writing requirements to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt\n'}
+[1.457307] (wit_ros2_imu) StdoutLine: {'line': b'writing top-level names to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt\n'}
+[1.457557] (wit_ros2_imu) StdoutLine: {'line': b"writing manifest file '../../build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[1.503307] (wit_ros2_imu) StdoutLine: {'line': b"reading manifest file '../../build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[1.503770] (wit_ros2_imu) StderrLine: {'line': b'Traceback (most recent call last):\n'}
+[1.503912] (wit_ros2_imu) StderrLine: {'line': b'  File "/home/vijay/IMU/src/wit_ros2_imu/setup.py", line 6, in <module>\n'}
+[1.504012] (-) TimerEvent: {}
+[1.504269] (wit_ros2_imu) StderrLine: {'line': b'    setup(\n'}
+[1.504391] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/__init__.py", line 117, in setup\n'}
+[1.504488] (wit_ros2_imu) StderrLine: {'line': b'    return distutils.core.setup(**attrs)\n'}
+[1.504584] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 183, in setup\n'}
+[1.504679] (wit_ros2_imu) StderrLine: {'line': b'    return run_commands(dist)\n'}
+[1.504775] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 199, in run_commands\n'}
+[1.504873] (wit_ros2_imu) StderrLine: {'line': b'    dist.run_commands()\n'}
+[1.504978] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 954, in run_commands\n'}
+[1.505088] (wit_ros2_imu) StderrLine: {'line': b'    self.run_command(cmd)\n'}
+[1.505181] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/dist.py", line 995, in run_command\n'}
+[1.505291] (wit_ros2_imu) StderrLine: {'line': b'    super().run_command(command)\n'}
+[1.505393] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 973, in run_command\n'}
+[1.505620] (wit_ros2_imu) StderrLine: {'line': b'    cmd_obj.run()\n'}
+[1.505750] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 313, in run\n'}
+[1.505855] (wit_ros2_imu) StderrLine: {'line': b'    self.find_sources()\n'}
+[1.505942] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 321, in find_sources\n'}
+[1.506032] (wit_ros2_imu) StderrLine: {'line': b'    mm.run()\n'}
+[1.506119] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 549, in run\n'}
+[1.506205] (wit_ros2_imu) StderrLine: {'line': b'    self.prune_file_list()\n'}
+[1.506313] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/command/sdist.py", line 162, in prune_file_list\n'}
+[1.506401] (wit_ros2_imu) StderrLine: {'line': b'    super().prune_file_list()\n'}
+[1.506487] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/command/sdist.py", line 380, in prune_file_list\n'}
+[1.506584] (wit_ros2_imu) StderrLine: {'line': b'    base_dir = self.distribution.get_fullname()\n'}
+[1.506675] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 267, in get_fullname\n'}
+[1.506766] (wit_ros2_imu) StderrLine: {'line': b'    return _distribution_fullname(self.get_name(), self.get_version())\n'}
+[1.506857] (wit_ros2_imu) StderrLine: {'line': b'  File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname\n'}
+[1.506942] (wit_ros2_imu) StderrLine: {'line': b'    canonicalize_version(version, strip_trailing_zero=False),\n'}
+[1.507027] (wit_ros2_imu) StderrLine: {'line': b"TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'\n"}
+[1.544501] (wit_ros2_imu) CommandEnded: {'returncode': 1}
+[1.545067] (wit_ros2_imu) JobEnded: {'identifier': 'wit_ros2_imu', 'rc': 1}
+[1.555095] (-) EventReactorShutdown: {}

@@ -1,0 +1,2 @@
+[console_scripts]
+imu_node = wit_ros2_imu.imu_node:main

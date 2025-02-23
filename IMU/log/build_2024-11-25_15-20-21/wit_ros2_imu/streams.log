@@ -1,0 +1,25 @@
+[1.427s] Invoking command in '/home/vijay/IMU/src/wit_ros2_imu': PYTHONPATH=/home/vijay/IMU/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/wit_ros2_imu build --build-base /home/vijay/IMU/build/wit_ros2_imu/build install --record /home/vijay/IMU/build/wit_ros2_imu/install.log --single-version-externally-managed install_data
+[1.962s] running egg_info
+[1.995s] writing ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO
+[1.996s] writing dependency_links to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt
+[1.996s] writing entry points to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt
+[1.997s] writing requirements to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt
+[1.997s] writing top-level names to ../../build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt
+[2.064s] reading manifest file '../../build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[2.066s] writing manifest file '../../build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[2.067s] running build
+[2.067s] running build_py
+[2.067s] copying wit_ros2_imu/imu_node.py -> /home/vijay/IMU/build/wit_ros2_imu/build/lib/wit_ros2_imu
+[2.068s] running install
+[2.077s] running install_lib
+[2.109s] copying /home/vijay/IMU/build/wit_ros2_imu/build/lib/wit_ros2_imu/imu_node.py -> /home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu
+[2.110s] byte-compiling /home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu/imu_node.py to imu_node.cpython-310.pyc
+[2.112s] running install_data
+[2.112s] copying launch/rviz_and_imu.launch.py -> /home/vijay/IMU/install/wit_ros2_imu/share/wit_ros2_imu
+[2.113s] running install_egg_info
+[2.148s] removing '/home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)
+[2.149s] Copying ../../build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info
+[2.150s] running install_scripts
+[2.405s] Installing imu_node script to /home/vijay/IMU/install/wit_ros2_imu/lib/wit_ros2_imu
+[2.406s] writing list of installed files to '/home/vijay/IMU/build/wit_ros2_imu/install.log'
+[2.451s] Invoked command in '/home/vijay/IMU/src/wit_ros2_imu' returned '0': PYTHONPATH=/home/vijay/IMU/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijay/IMU/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/wit_ros2_imu build --build-base /home/vijay/IMU/build/wit_ros2_imu/build install --record /home/vijay/IMU/build/wit_ros2_imu/install.log --single-version-externally-managed install_data
